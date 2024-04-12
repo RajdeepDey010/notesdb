@@ -1,0 +1,18 @@
+{
+  "notes" : [
+    {
+      id: "1",
+      content: "asdasd1",
+      createdAt: "14-04-2024",
+      lastUpdate: "14-04-2024",
+      user: "U1"
+    },
+    {
+      id: "2",
+      content: "asdasd1",
+      createdAt: "14-04-2024",
+      lastUpdate: "14-04-2024",
+      user: "U1"
+    }
+  ]
+}
